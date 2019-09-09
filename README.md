@@ -1,3 +1,3 @@
 # python-advanced
 
-мои программы на курсе advanced
+мои программы на курсе python-advanced
